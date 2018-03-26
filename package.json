@@ -1,0 +1,25 @@
+{
+  "name": "gn-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applicaions with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gneuf91/gn-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Gaven Neufeld <gneuf91@gmail.com> (https://github.com/gneuf91)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gneuf91/gn-js-footer/issues"
+  },
+  "homepage": "https://github.com/gneuf91/gn-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
